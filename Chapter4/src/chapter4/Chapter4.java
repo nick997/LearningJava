@@ -19,6 +19,16 @@ public class Chapter4 {
 
         System.out.println("Exercise 1:");
         System.out.println("-----------");
+
+        
+        System.out.println("Exercise 2:");        
+        System.out.println("-----------");
+
+
+        System.out.println("Exercise 3:");        
+        System.out.println("-----------");
+
+        
     }
     
 }
